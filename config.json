@@ -1,0 +1,7 @@
+{
+    "server":"localhost",
+    "server_port":8389,
+    "local_port":1081,
+    "password":"",
+    "timeout":600
+}
